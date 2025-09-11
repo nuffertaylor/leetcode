@@ -63,3 +63,5 @@ console.log(findDiagonalOrder(diagonal5));
  * 1, -1
  * 
  */
+
+export {};

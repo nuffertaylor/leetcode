@@ -68,3 +68,5 @@ function emptyMatrix(n: number): number[][] {
 console.log(generateMatrix(3));
 console.log(generateMatrix(1));
 console.log(generateMatrix(20));
+
+export {};

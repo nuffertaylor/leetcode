@@ -149,3 +149,5 @@ function shiftMatrixUp(matrix: number[][]): number[][] {
 // test shiftMatrixUp
 // console.log(shiftMatrixUp([[1,1,0],[1,0,1],[0,1,0]]));
 
+
+export {};

@@ -34,3 +34,5 @@ console.log(isToeplitzMatrix([[1,2,3,4],[5,1,2,3],[9,5,1,2]]));
 console.log(isToeplitzMatrix([[1,2],[2,2]]));
 
 // completed in 7:33
+
+export {};

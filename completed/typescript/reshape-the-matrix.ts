@@ -36,3 +36,4 @@ console.log(matrixReshape([[1,2],[3,4]], 1, 4));
 console.log(matrixReshape([[1,2],[3,4]], 2, 4));
 
 // completed in 9 minutes 10 seconds
+export {};

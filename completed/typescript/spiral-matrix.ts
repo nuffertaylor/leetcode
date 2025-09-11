@@ -57,3 +57,5 @@ const result1 = spiralOrder(test1);
 console.log(result1);
 const result2 = spiralOrder(test2);
 console.log(result2);
+
+export {};
