@@ -44,3 +44,5 @@ console.log(longestConsecutive([0,3,7,2,5,8,4,6,0,1]));
 
 // test 3
 console.log(longestConsecutive([1,0,1,2]));
+
+export {};
